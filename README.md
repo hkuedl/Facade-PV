@@ -1,8 +1,8 @@
 # Facade_PV
 
-_This work conducts a comprehensive study on harnessing the carbon mitigation potential of facade photovoltaics (FPV). We select 102 large-sized cities in China for the study. We first reveal the high power generation potential of FPV compared with rooftop photovoltaics (RPV), and then we determine the cost-effective deployment pathway for FPV in 2030-2050._
+_This work conducts a comprehensive study on harnessing the carbon mitigation potential of facade photovoltaics (FPV). We select all 102 largest cities in China for the study. We first show the high power generation potential of FPV compared with rooftop photovoltaics (RPV), and then we determine the cost-effective deployment pathway for FPV in 2030-2050._
 
-Codes for submitted paper "Mitigating Carbon Emissions in China’s Large-sized Cities with Facade Photovoltaics".
+Codes for the submitted paper "Mitigating Carbon Emissions in China’s Large Cities with Facade Photovoltaics".
 
 Authors: Xueyuan Cui, Hao Li, Zeyang Long, Xiaohua Liu, Chris P. Nielsen, Michael B. McElroy, Dabo Guan, Jinyue Yan, Chongqing Kang, Xiaochen Liu, Yi Wang.
 
