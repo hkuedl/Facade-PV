@@ -4,11 +4,6 @@ This repository contains the reproducibility code for the manuscript
 “Synergistic Deployment of Rooftop and Facade Photovoltaics Advances
 Cost-effective Building Decarbonization in China's Large Cities.”
 
-The revised workflow covers 102 large Chinese cities and incorporates the
-appeal and major-revision updates: land-use-informed grid load composition,
-an RPV 35% / FPV 70% main installation case, updated 2030–2050 planning, and
-the revised main-text figures.
-
 ## Software
 
 - Python 3.10 or later is recommended.
